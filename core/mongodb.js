@@ -1,5 +1,3 @@
-
-
 import { db } from "../models/index.js";
 import { dbConfig } from "../config/db.config.js";
 
